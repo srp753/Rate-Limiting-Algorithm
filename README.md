@@ -1,6 +1,6 @@
 # Rate-Limiting-Algorithm
 
-This code defines a function "rate_limit_traffic" which takes in the path of a json file containing
+This code defines a function "rate_limit_traffic" which takes in the path of a log file containing
 user activity.
 
 The aim is to limit user requests to the API to 10 per second.
