@@ -15,6 +15,7 @@ in a dictionary.
 considered corresponding to the next second.
 
 3) If a user has already completed his max limit in one second,
+he is not allowed any more requests.
 """
 
 import shlex
