@@ -1,6 +1,6 @@
-"""Write your solution in this file.
+"""
 
-You can test the function by adding a line
+The function can be tested by adding a line
 below the function:
 
 result = rate_limit_traffic("small.log")
