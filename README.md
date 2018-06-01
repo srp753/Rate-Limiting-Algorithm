@@ -11,7 +11,7 @@ the request limit.
 You can test the function by adding a line after the function as
 follows:
 
-result = rate_limit_traffic("inputs/small.log")
+result = rate_limit_traffic("small.log")
 
 The log files are available in the inputs folder.
    
